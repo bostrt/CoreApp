@@ -1,0 +1,12 @@
+{
+	"frameworks": {
+		"netcoreapp2.1": {}
+	},
+	"buildOptions": {
+		"emitEntryPoint": false
+	},
+	"dependencies": {
+		"Microsoft.AspNetCore": "1.1.0",
+		"Microsoft.AspNetCore.Server.Kestrel": "1.1.0"
+	}
+}
